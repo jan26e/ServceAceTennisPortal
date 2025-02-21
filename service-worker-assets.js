@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "h7zNJVPY",
+  "version": "+q6DAu4E",
   "assets": [
     {
       "hash": "sha256-4hqg8EkveYapbuJ8VJPnpun7DqBHJK6zjOFYbHj/dWI=",
@@ -62,7 +62,7 @@ self.assetsManifest = {
       "url": "_framework/Microsoft.JSInterop.wasm"
     },
     {
-      "hash": "sha256-Cpe42IC23D+m9WVQXkyB+dISd/VGRe5krDegCYahiJw=",
+      "hash": "sha256-ors/9id+dz7OH/F5qMuvUNehWc6C5zQTcnqmQitdGs0=",
       "url": "_framework/ServeAceTennisPortal.WebApp.Client.wasm"
     },
     {
@@ -118,7 +118,7 @@ self.assetsManifest = {
       "url": "_framework/System.Runtime.InteropServices.JavaScript.wasm"
     },
     {
-      "hash": "sha256-9v8T/icvVBJUEfviZmFKx+PfREJ6wI7fOl18HN6BPkE=",
+      "hash": "sha256-RhVAi9UnTJxEQzzMYQsczPGJHVoX7LPRBwCpW/9wpbE=",
       "url": "_framework/System.Runtime.wasm"
     },
     {
@@ -134,7 +134,7 @@ self.assetsManifest = {
       "url": "_framework/System.Text.RegularExpressions.wasm"
     },
     {
-      "hash": "sha256-pJIr8hI7JLhz3xKUOH/6Lu+FTtdKX7umveskOn4yrcU=",
+      "hash": "sha256-PJtY2n/nAClK/XQ2FlDSrsk1Jtekcbi30yLL092C2Ng=",
       "url": "_framework/blazor.boot.json"
     },
     {
